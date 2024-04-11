@@ -1,4 +1,4 @@
-Travel Planner Application Readme
+Travel Planner Application
 
 Overview
 
